@@ -6,7 +6,7 @@ import HeroSection from "../components/sections/HeroSection"
 function IndexPage() {
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO />
       <HeroSection />
     </Layout>
   )
