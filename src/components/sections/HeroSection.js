@@ -69,9 +69,9 @@ const ContentWrapper = styled.div`
     grid-template-rows: auto auto;
   }
 
-  @media (max-width: 768px) {
+  /* @media (max-width: 768px) {
     grid-template-columns: 360px auto;
-  }
+  } */
 `
 const TextWrapper = styled.div`
   position: relative;
